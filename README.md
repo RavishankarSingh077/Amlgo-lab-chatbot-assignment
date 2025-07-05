@@ -1,6 +1,7 @@
 #  Amlgo Lab Chatbot Assignment #
 
 ## 📽️ Demo Video 
+This video demonstrates how the RAG-based document chatbot works with real-time streaming responses.
 
 [Demo video link (Google drive]=(https://drive.google.com/drive/folders/1W1iTL9It494BlG9YLutFHKfAGIVq17E4?usp=drive_link )
 
@@ -8,12 +9,11 @@
 
 ## 📽️ GitHub Repo Link
 
-[GitHub Repo project link]=(https://drive.google.com/drive/folders/1W1iTL9It494BlG9YLutFHKfAGIVq17E4?usp=drive_link )
+[GitHub Repo project link]=(https://github.com/RavishankarSingh077/Amlgo-lab-chatbot-assignment )
 
 
 
 
-This video demonstrates how the RAG-based document chatbot works with real-time streaming responses.
 
 
 This is my project submission for the Junior AI Engineer Assignment by Amlgo Labs.
