@@ -4,7 +4,7 @@
 
 [Demo video link (Google drive]=(https://drive.google.com/drive/folders/1W1iTL9It494BlG9YLutFHKfAGIVq17E4?usp=drive_link )
 
-[Demo video link (GitHub Repo]=(https://drive.google.com/drive/folders/1W1iTL9It494BlG9YLutFHKfAGIVq17E4?usp=drive_link )
+[Demo video link (GitHub Repo]=(https://github.com/RavishankarSingh077/Amlgo-lab-chatbot-assignment/blob/main/Amlgo%20Chatbot.mp4 )
 
 ## 📽️ GitHub Repo Link
 
